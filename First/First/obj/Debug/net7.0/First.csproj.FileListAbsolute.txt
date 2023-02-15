@@ -1,0 +1,15 @@
+/Users/JVJ/Projects/First/First/bin/Debug/net7.0/First
+/Users/JVJ/Projects/First/First/bin/Debug/net7.0/First.deps.json
+/Users/JVJ/Projects/First/First/bin/Debug/net7.0/First.runtimeconfig.json
+/Users/JVJ/Projects/First/First/bin/Debug/net7.0/First.dll
+/Users/JVJ/Projects/First/First/bin/Debug/net7.0/First.pdb
+/Users/JVJ/Projects/First/First/obj/Debug/net7.0/First.csproj.AssemblyReference.cache
+/Users/JVJ/Projects/First/First/obj/Debug/net7.0/First.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JVJ/Projects/First/First/obj/Debug/net7.0/First.AssemblyInfoInputs.cache
+/Users/JVJ/Projects/First/First/obj/Debug/net7.0/First.AssemblyInfo.cs
+/Users/JVJ/Projects/First/First/obj/Debug/net7.0/First.csproj.CoreCompileInputs.cache
+/Users/JVJ/Projects/First/First/obj/Debug/net7.0/First.dll
+/Users/JVJ/Projects/First/First/obj/Debug/net7.0/refint/First.dll
+/Users/JVJ/Projects/First/First/obj/Debug/net7.0/First.pdb
+/Users/JVJ/Projects/First/First/obj/Debug/net7.0/First.genruntimeconfig.cache
+/Users/JVJ/Projects/First/First/obj/Debug/net7.0/ref/First.dll
